@@ -1,0 +1,14 @@
+
+public class MainMethod {
+
+	public static void main(String[] args) {
+
+		Addition addition = new Addition();
+		addition.add(5, 5);
+		addition.sum(2, 3, 4);
+		addition.code(10);
+		addition.display("Hello Hi");
+		addition.hello();
+		addition.hi();
+	}
+}

@@ -1,0 +1,15 @@
+
+public class MainMethod {
+
+	public static void main(String[] args) {
+
+		Addition addition = new Addition();
+		addition.add(5, 5);
+		int response = addition.sum(2, 3, 4);
+		addition.hello();
+		addition.hi();
+		addition.display("Hello Hi");
+		addition.code(10);
+		
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SingleInheritanceExample&apos; to &apos;MethodConceptExample&apos;" description="Rename resource &apos;SingleInheritanceExample&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/SingleInheritanceExample" name="MethodConceptExample" stamp="1639746642952" updateReferences="true"/>
+</session>

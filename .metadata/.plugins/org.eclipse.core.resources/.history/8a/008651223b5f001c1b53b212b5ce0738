@@ -1,0 +1,8 @@
+
+public class Vehicle extends Bike {
+
+	public void breaks() {
+		System.out.println("breaks");
+	}
+		
+}
